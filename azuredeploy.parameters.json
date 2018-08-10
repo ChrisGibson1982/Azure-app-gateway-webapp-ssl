@@ -15,10 +15,10 @@
         "value": 2
       },
       "azureWebApp1": {
-        "value": "abc.azurewebsites.net"
+        "value": "cg-weu-app1.azurewebsites.net"
       },
       "azureWebApp2": {
-        "value": "def.azurewebsites.net"
+        "value": "cg-weu-app2.azurewebsites.net"
       },
       "probeEnabled": {
         "value": true
